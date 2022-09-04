@@ -1,6 +1,8 @@
 # Weather-API
 
-Hey there and welcome to a fun API project I did using freenode!
+Hey there and welcome to a fun API project I did using Libera Chat!
+
+I had a lot of fun incorporating JSON and using IRC Bots to make the project more interesting.
 
 How it works:
 

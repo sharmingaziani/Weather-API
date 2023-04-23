@@ -2,6 +2,8 @@
 
 Hey there and welcome to a fun API project I did using Libera Chat!
 
+Some things about this project: 
+
 I Developed an interactive information retrieval system that provides real-time data for a specified zip code or city.  
 
 I was able to Designed an instance of a PircBot using event driven architecture to present data via web interface such as Libera Chat, enabling on-demand access to weather information.

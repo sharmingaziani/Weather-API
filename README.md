@@ -1,14 +1,10 @@
-# Weather-API
-
-Hey there and welcome to a fun API project I did using Libera Chat!
-
 ## Some things about this project: 
 
-I developed an interactive information retrieval system that provides real-time data for a specified zip code or city.  
+- I developed an interactive information retrieval system that provides real-time data for a specified zip code or city.  
 
-I was able to designe an instance of a PircBot using event driven architecture to present data via web interface such as Libera Chat, enabling on-demand access to weather information.
+- Designed an instance of PircBot using event driven architecture to present data via web interface such as Libera Chat, enabling on-demand access to weather information.
 
-It alao incorporates JSON objects to facilitate data transfer from client/server and parsed the data to extract relevant data and user-specified locations. 
+- Incorporated JSON objects to facilitate data transfer from client/server and parsed the data to extract relevant data and user-specified locations. 
 
 ## How it works:
 
